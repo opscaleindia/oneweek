@@ -1,7 +1,14 @@
+
 My Skills:
 
-Android Development (Expert)
+Android Development (Expert)- Php, Wamp, Backendless, Firebase
+
+
 HTML5, CSS3, ASP.NET (Intermediate)
+
+
+Python(Beginner)
+
 
 
 Languages:
